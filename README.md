@@ -10,8 +10,6 @@ Primeiro confira que o Docker e o Docker Compose estão instalados:
 
 -   Windows/macOS:
     [Docker Desktop](https://www.docker.com/get-started) (Importante que tenha o WSL2 instalado)
--   Linux: [Docker](https://www.docker.com/get-started) e
-    [Docker Compose](https://github.com/docker/compose)
 
 Depois, entre na pasta com o projeto (nginx-golang-mysql), lá você irá localizar o arquivo `compose.yaml`,
 esse que contém as configurações necessárias para os containers e a aplicação em sí para assim executar o Docker Compose.
